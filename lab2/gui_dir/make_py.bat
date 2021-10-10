@@ -1,0 +1,1 @@
+pyuic5 lab2.ui -o gui.py
